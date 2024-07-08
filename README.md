@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MissBellum
-- 👀 I’m interested in ... mastering Python.
-- 🌱 I’m currently learning ... Python.
-- 💞️ I’m looking to collaborate on ... Python.
-- 📫 How to reach me ...
+- 👀 I’m interested in ... pushing commits.
+- 🌱 I’m currently learning ... to build fancy stuff.
+- 💞️ I’m looking to collaborate on ... interesting and challenging projects.
+- 📫 How to reach me ... chrise.nwachukwu@gmail.com
 
 <!---
 MissBellum/MissBellum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
